@@ -1,4 +1,4 @@
-# AI Core: SME-Specific Leading Questions
+# AI Core: SME-Specific Leading Q & A
 
 This document provides structured, leading questions for different SME groups (Developers, QA, Business Analysts, Product Leads).  
 The goal is to build understanding progressively, from high-level workflows down to detailed technical and governance considerations.  
