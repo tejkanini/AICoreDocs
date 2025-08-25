@@ -29,6 +29,7 @@
   - Vector Databases
   - AI/ML Models
   - Functions (LLM utilities, text-to-speech, OCR, etc.)
+- **Connectors** (glue between blocks & external systems)
 - Abstraction layer and UUID system
 - Application lifecycle in AI Core
 
@@ -79,40 +80,58 @@
 - Custom function integration
 - Usage patterns
 
-## 8. Application Creation Workflow
+## 8. Connectors
+- What are connectors?
+- Role as glue between building blocks
+- Types of connectors
+  - Storage connectors
+  - Database connectors
+  - Vector DB connectors
+  - Model connectors
+  - Function connectors
+- How connectors work in AI Core
+  - UUIDs & abstraction layer
+  - Auto-generated code snippets
+  - Vendor/provider independence
+- Using connectors in
+  - No-code workflows
+  - Pro-code development
+- Best practices for connector usage
+
+## 9. Application Creation Workflow
 - Step-by-step guide (no-code → pro-code)
-- Combining building blocks
+- Combining building blocks with connectors
 - Example applications
 - Using templates for quick start
 
-## 9. Collaboration & Sharing
+## 10. Collaboration & Sharing
 - Inviting users
 - Application marketplace / subscriptions
 - Managing versions & updates
 
-## 10. Advanced Topics
+## 11. Advanced Topics
 - Abstraction best practices
 - Extending AI Core with external services
 - Hybrid deployments (cloud + on-prem)
 - Scaling applications
 
-## 11. Troubleshooting & FAQs
+## 12. Troubleshooting & FAQs
 - Common errors & fixes
 - Performance optimization
 - Security & access issues
 
-## 12. Use Cases
+## 13. Use Cases
 - Business user workflows
 - Data scientist workflows
 - Developer workflows
 - Enterprise-level deployment scenarios
 
-## 13. Roadmap & Future Directions
+## 14. Roadmap & Future Directions
 - Planned features
 - Integration roadmap
 - Community & contributions
 
-## 14. Appendices
+## 15. Appendices
 - API reference
 - Sample code snippets
 - Template library
