@@ -48,10 +48,10 @@ The goal is to build understanding progressively, from high-level workflows down
 
 1. What **unique problem** does AI Core solve that other AI platforms do not?  
 2. Is the platform primarily intended for **internal enablement** or as a **commercial offering** for customers?  
-3. How do we plan to address **vendor lock-in concerns** — especially around models and storage providers?  
+3. How do we plan to address **vendor lock-in concerns**, especially around models and storage providers?  
 4. What is the **product roadmap** for introducing new templates, block types, or connectors?  
 5. Will AI Core support **multi-tenancy** for large enterprises with multiple business units?  
 6. Is there a roadmap for **offline or on-prem deployment** for regulated industries?  
 7. What are the **security and compliance guarantees** (RBAC granularity, logging, data residency)?  
-8. How do we envision **scaling adoption** — internal marketplace, subscription model, or open sharing?  
+8. How do we envision **scaling adoption**:  internal marketplace, subscription model, or open sharing?  
 
