@@ -10,7 +10,7 @@ The goal is to build understanding progressively, from high-level workflows down
 1. Walk me through the **end-to-end workflow of creating an application** in AI Core from pre-creation, creation, to publishing.  
 2. At which stage are **building blocks** (storage, databases, vector DBs, models, functions) introduced into the workflow?  
 3. Are these five building blocks **fixed components**, or can developers add new types?  
-4. How do **connectors** fit into this workflow — do they automatically link blocks, or must developers configure them manually?  
+4. How do **connectors** fit into this workflow, do they automatically link blocks, or must developers configure them manually?  
 5. When connectors are configured, how is the **interaction between blocks abstracted** (e.g., via UUIDs)?  
 6. If a developer swaps one provider for another (e.g., S3 Azure Blob), what exactly changes in the code or app?  
 7. For pro-code workflows, what languages and frameworks are officially supported?  
